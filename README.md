@@ -24,10 +24,11 @@
 - [MySQL数据库面试题](https://github.com/Java-Super-Air/JavaStudy/blob/master/Interview/MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 - [Netty面试题](https://github.com/Java-Super-Air/JavaStudy/blob/master/Interview/Netty%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 - [Redis面试题](https://github.com/Java-Super-Air/JavaStudy/blob/master/Interview/Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md)
-- [Spring面试题](https://github.com/Java-Super-Air/JavaStudy/blob/master/Interview/Spring%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+- []()
 - [Spring Boot面试题](https://github.com/Java-Super-Air/JavaStudy/blob/master/Interview/Spring%20Boot%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 - [Spring Cloud面试题](https://github.com/Java-Super-Air/JavaStudy/blob/master/Interview/Spring%20Cloud%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 - [Spring MVC面试题](https://github.com/Java-Super-Air/JavaStudy/blob/master/Interview/Spring%20MVC%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+- [Spring面试题](https://github.com/Java-Super-Air/JavaStudy/blob/master/Interview/Spring%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 - [Tomcat面试题](https://github.com/Java-Super-Air/JavaStudy/blob/master/Interview/Tomcat%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 - [ZooKeeper面试题](https://github.com/Java-Super-Air/JavaStudy/blob/master/Interview/ZooKeeper%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 - [并发编程面试题](https://github.com/Java-Super-Air/JavaStudy/blob/master/Interview/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md)
@@ -39,5 +40,13 @@
 - [面试中的技巧](https://github.com/Java-Super-Air/JavaStudy/blob/master/Interview/%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E6%94%BB%E7%95%A5%EF%BC%9A%E9%9D%A2%E8%AF%95%E4%B8%AD%E7%9A%84%E6%8A%80%E5%B7%A7.md)
 
 ***
+
+# 高效学习
+
+- [如何学习和阅读代码](https://github.com/Java-Super-Air/JavaStudy/blob/master/Technology%20sharing/%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0%EF%BC%9A%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%E5%92%8C%E9%98%85%E8%AF%BB%E4%BB%A3%E7%A0%81.md)
+- [面对枯燥和量大的知识](https://github.com/Java-Super-Air/JavaStudy/blob/master/Technology%20sharing/%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0%EF%BC%9A%E9%9D%A2%E5%AF%B9%E6%9E%AF%E7%87%A5%E5%92%8C%E9%87%8F%E5%A4%A7%E7%9A%84%E7%9F%A5%E8%AF%86.md)
+- [沟通技术](https://github.com/Java-Super-Air/JavaStudy/blob/master/Technology%20sharing/%E9%AB%98%E6%95%88%E6%B2%9F%E9%80%9A%EF%BC%9A%E6%B2%9F%E9%80%9A%E6%8A%80%E6%9C%AF.md)
+- [沟通方式及技巧](https://github.com/Java-Super-Air/JavaStudy/blob/master/Technology%20sharing/%E9%AB%98%E6%95%88%E6%B2%9F%E9%80%9A%EF%BC%9A%E6%B2%9F%E9%80%9A%E6%96%B9%E5%BC%8F%E5%8F%8A%E6%8A%80%E5%B7%A7.md)
+
 
 # 持续更新，觉得不错，请帮点个`Star`
