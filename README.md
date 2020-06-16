@@ -34,7 +34,7 @@
    - [消息中间件MQ与RabbitMQ面试题](https://github.com/Java-Super-Air/JavaStudy/blob/master/Interview/%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6MQ%E4%B8%8ERabbitMQ%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
 - **面试攻略**
-
+   - [技术面试需要掌握的基础知识整理](https://github.com/Java-Super-Air/JavaStudy/blob/master/Interview/%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E9%9C%80%E8%A6%81%E6%8E%8C%E6%8F%A1%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.MD)
    - [面试前的准备](https://github.com/Java-Super-Air/JavaStudy/blob/master/Interview/%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E6%94%BB%E7%95%A5%EF%BC%9A%E9%9D%A2%E8%AF%95%E5%89%8D%E7%9A%84%E5%87%86%E5%A4%87.md)
    - [面试中的技巧](https://github.com/Java-Super-Air/JavaStudy/blob/master/Interview/%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E6%94%BB%E7%95%A5%EF%BC%9A%E9%9D%A2%E8%AF%95%E4%B8%AD%E7%9A%84%E6%8A%80%E5%B7%A7.md)
 
