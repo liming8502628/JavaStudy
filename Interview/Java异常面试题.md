@@ -729,6 +729,20 @@ public void wrapException(String input) throws MyBusinessException {
 3. 【强制】catch时请分清稳定代码和非稳定代码，稳定代码指的是无论如何不会出错的代码。对于非稳定代码的catch尽可能进行区分异常类型，再做对应的异常处理。 说明：对大段代码进行try-catch，使程序无法根据不同的异常做出正确的应激反应，也不利于定位问题，这是一种不负责任的表现。 正例：用户注册的场景中，如果用户输入非法字符，或用户名称已存在，或用户输入密码过于简单，在程序上作出分门别类的判断，并提示给用户。
 4. 【强制】捕获异常是为了处理它，不要捕获了却什么都不处理而抛弃之，如果不想处理它，请将该异常抛给它的调用者。最外层的业务使用者，必须处理异常，将其转化为用户可以理解的内容。
 5. 【强制】有try块放到了事务代码中，catch异常后，如果需要回滚事务，一定要注意手动回滚事务。
+```
+@Transactional(rollbackFor = Exception.class)
+@Override
+public void saveEntity() throws Exception{
+    try {
+        userDao.saveUser();
+        studentDao.saveStudent();
+    }catch (Exception e){
+        System.out.println("异常了=====" + e);
+        //手动强制回滚事务，这里一定要第一时间处理
+        TransactionAspectSupport.currentTransactionStatus().setRollbackOnly();
+    }
+}
+```
 6. 【强制】finally块必须对资源对象、流对象进行关闭，有异常也要做try-catch。 说明：如果JDK7及以上，可以使用try-with-resources方式。
 7. 【强制】不要在finally块中使用return。 说明：try块中的return语句执行成功后，并不马上返回，而是继续执行finally块中的语句，如果此处存在return语句，则在此直接返回，无情丢弃掉try块中的返回点。 反例：
 ```
